@@ -1,0 +1,22 @@
+POST http://localhost:8800/api/membership_items
+content-type: application/json
+
+{
+    "last_name": "last_name",
+    "first_name": "first_name",
+    "patro_name": "patro_name",
+    "email": "email",
+    "phone_number": "phone_number",
+    "date_birth;": "date_birth",
+    "place_birth": "place_birth",
+    "address": "address",
+    "id_doc": "id_doc",
+    "date_doc": "date_doc",
+    "place_doc": "place_doc",
+    "education": "education",
+    "add_education": "add_education",
+    "interests": "interests",
+    "experience": "experience",
+    "date_member": "date_member",
+    "terms": "terms"
+}
