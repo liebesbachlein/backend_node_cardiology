@@ -7,10 +7,10 @@ app.use(cors());
 app.use(express.json())
 
 const db = mysql.createConnection({
-    host:"srv-db-plesk10.ps.kz:3306",
-    user: "ahcvporg_cardiology_root",
-    password: "ahcvporg_cardiology_admin",
-    database:"ahcvporg_cardiology"
+    host:
+    user: 
+    password:
+    database:
 })
 
 
